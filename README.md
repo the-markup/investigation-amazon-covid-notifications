@@ -2,11 +2,11 @@
 
 This contains the data for our story, "[TK](TK)."
 
-The data is based off of daily COVID exposure notifications sent to employees through the Amazon A to Z app.
+The data is based on daily COVID exposure notifications sent to employees through the Amazon A to Z app.
 
 ## Data
 
-Each CSV file in the `data` folder is labelled with the warehouse name.
+Each CSV file in the `data` folder is labeled with the warehouse name.
 
 For each CSV, the data dictionary is as follows:
 
